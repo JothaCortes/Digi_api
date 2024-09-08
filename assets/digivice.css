@@ -1,0 +1,15 @@
+
+body{
+    background-image: url(../assets/imagenes/bg.jpg);
+    background-attachment: fixed;
+    margin-top: 5rem;
+}
+@media (hover: hover){
+    .cardH{
+        transition: all 0.3s;
+    }
+}
+
+.tableW{
+    width: 22rem;
+}
